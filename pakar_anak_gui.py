@@ -33,7 +33,7 @@ gejala_pertanyaan = {
     'menolak_disentuh': "Apakah anak menolak disentuh?"
 }
 
-# Setup GUI
+# Pengaturan GUI
 root = Tk()
 root.title("Sistem Pakar Diagnosis Gangguan Perkembangan Anak")
 root.geometry("800x600")
