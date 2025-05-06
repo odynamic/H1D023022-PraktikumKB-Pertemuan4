@@ -6,7 +6,7 @@ penyakit(gangguan_bahasa).
 penyakit(gangguan_motorik).
 penyakit(gangguan_sensorik).
 
-% Nama penyakit untuk tampilan yang lebih user-friendly
+% Nama penyakit
 nama_penyakit(autisme, 'Autisme').
 nama_penyakit(adhd, 'Attention Deficit Hyperactivity Disorder (ADHD)').
 nama_penyakit(disleksia, 'Disleksia').
